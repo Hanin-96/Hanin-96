@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Mitt namn är Hanin och jag är en blivande **_webbutvecklare_** som studerar webbutveckling på mittuniversitet
+
 <!--
 **Hanin-96/Hanin-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
