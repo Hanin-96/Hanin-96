@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallå där 👋
 
 Mitt namn är Hanin och jag är en blivande **_webbutvecklare_** som studerar webbutveckling på _Mittuniversitet_
 
