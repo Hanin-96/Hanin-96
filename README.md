@@ -1,6 +1,7 @@
 # Hallå där 👋
 ## Välkommen till min sida!
-Mitt namn är Hanin och jag är en blivande **_webbutvecklare_** som studerar webbutveckling på **Mittuniversitet**
+Mitt namn är Hanin och jag är en blivande **_webbutvecklare_** som studerar webbutveckling på **Mittuniversitet**  
+
 🌱Just nu lär jag mig JavaScript och HTML/CSS
 
 <!--
